@@ -1,3 +1,10 @@
+amdgcn-tools-18 (18.2) unstable; urgency=medium
+
+  * Bump to 19.
+  * Bump standards version.
+
+ -- Matthias Klose <doko@debian.org>  Mon, 09 Sep 2024 11:25:03 +0200
+
 amdgcn-tools-18 (18.1) unstable; urgency=medium
 
   * Source-only upload.
